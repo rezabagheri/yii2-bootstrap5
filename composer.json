@@ -1,0 +1,21 @@
+{
+    "name": "yii2-bootstrap5/yii2-bootstrap5",
+    "description": "Yii2 Bootstrap 5",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," bootstrap5 yii2"],
+    "license": "LGPL-3.0+",
+    "authors": [
+        {
+            "name": "Reza Bagheri",
+            "email": "rezabagheri@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "paradise\\yii2\\bootstrap5\\": ""
+        }
+    }
+}
